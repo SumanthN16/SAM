@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fa16307-d2a9-4d82-afa0-7565925ce3d2" name="Changes" comment="Sam can now repeat what I sayjn.tyj">
-      <change afterPath="$PROJECT_DIR$/TRAINGKLDS.PY" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/openaitest.py" afterDir="false" />
+    <list default="true" id="3fa16307-d2a9-4d82-afa0-7565925ce3d2" name="Changes" comment="openai connected">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openaitest.py" beforeDir="false" afterPath="$PROJECT_DIR$/openaitest.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +39,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.TRAINGKLDS.PY">
+  <component name="RunManager" selected="Python.main">
     <configuration name="TRAINGKLDS.PY" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SAMAI" />
       <option name="ENV_FILES" value="" />
@@ -131,8 +130,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.TRAINGKLDS.PY" />
         <item itemvalue="Python.openaitest" />
+        <item itemvalue="Python.TRAINGKLDS.PY" />
         <item itemvalue="Python.openai" />
       </list>
     </recent_temporary>
@@ -177,12 +176,21 @@
       <option name="project" value="LOCAL" />
       <updated>1703432133691</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="openai connected">
+      <option name="closed" value="true" />
+      <created>1703522287446</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703522287446</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Sam can now repeat what I say." />
     <MESSAGE value="Sam can now repeat what I sayjn.tyj" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sam can now repeat what I sayjn.tyj" />
+    <MESSAGE value="openai connected" />
+    <option name="LAST_COMMIT_MESSAGE" value="openai connected" />
   </component>
 </project>
